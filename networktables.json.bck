@@ -1,0 +1,74 @@
+[
+  {
+    "name": "/Preferences/swerve_turning_bias",
+    "type": "double",
+    "value": 0.6,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/wheel_calibration",
+    "type": "double",
+    "value": 1.0,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/intake_assist",
+    "type": "boolean",
+    "value": false,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/drive_speed",
+    "type": "double",
+    "value": 10.0,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/turn_speed",
+    "type": "double",
+    "value": 7.0,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/UPTIME_AUTO_PRACTICE",
+    "type": "double",
+    "value": 1339.799999999877,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/UPTIME_TELE_PRACTICE",
+    "type": "double",
+    "value": 7944.40000001137,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/UPTIME_COMP_FMS",
+    "type": "double",
+    "value": 0.5,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/reef_assist",
+    "type": "boolean",
+    "value": true,
+    "properties": {
+      "persistent": true
+    }
+  }
+]

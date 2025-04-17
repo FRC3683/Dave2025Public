@@ -1,0 +1,1 @@
+David Takayoshi Suzuki CC OBC FRSC (born March 24, 1936) is a Canadian academic, science broadcaster, and environmental activist.
